@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BunnyTail", "BunnyTail\BunnyTail.csproj", "{F7FEA914-FF08-46FE-936C-4948E2741B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BunnyTail.Tests", "BunnyTail.Tests\BunnyTail.Tests.csproj", "{7A3300DC-740D-4F76-B4D1-46BDD81EB8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dev|Any CPU = Dev|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7FEA914-FF08-46FE-936C-4948E2741B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FEA914-FF08-46FE-936C-4948E2741B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FEA914-FF08-46FE-936C-4948E2741B4D}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{F7FEA914-FF08-46FE-936C-4948E2741B4D}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{F7FEA914-FF08-46FE-936C-4948E2741B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FEA914-FF08-46FE-936C-4948E2741B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3300DC-740D-4F76-B4D1-46BDD81EB8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3300DC-740D-4F76-B4D1-46BDD81EB8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3300DC-740D-4F76-B4D1-46BDD81EB8AD}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{7A3300DC-740D-4F76-B4D1-46BDD81EB8AD}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{7A3300DC-740D-4F76-B4D1-46BDD81EB8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3300DC-740D-4F76-B4D1-46BDD81EB8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
